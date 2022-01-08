@@ -1,4 +1,4 @@
-
+Note : you can only use this code for educational purposes ONLY .
 
 Pour compiler le programme: 
 gcc -o ransom ransom.c ransomlib.c -lcrypto
